@@ -1,8 +1,8 @@
 # Smart contract Wallet
 
-## Write a smart contract like "purse"
+## This a smart contract like "purse"
 
 Smart contract allows:
-* Ability to send/receive ETH
-* Ability to send/receive tokens
-* Ability to make allowance for tokens
+* Ability to send/receive ETH;
+* Ability to send/receive tokens;
+* Ability to make allowance for tokens.
