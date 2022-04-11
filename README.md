@@ -1,6 +1,6 @@
 # Smart contract Wallet
 
-## This a smart contract like "purse"
+## This is a smart contract like "purse"
 
 Smart contract allows:
 * Ability to send/receive ETH;
